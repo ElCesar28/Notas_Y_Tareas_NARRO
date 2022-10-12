@@ -1,0 +1,58 @@
+ Funcionales
+1.	Registro
+    a.	Notas
+    b.	Tareas
+2.	Contenido
+    a.	Nota|Tarea
+        i.Título
+        ii.Descripción
+        iii.Elementos Multimedia(Audio|Imagen|Video)
+            1.Se pueden realizar al momento o Seleccionar como archivo del sistema.
+            2.A cada archivo se le puede agregar una descripción.
+            3.Miniatura del tipo de archivo.
+        iv.Fecha de Registro
+    b.Tarea
+        i.Fecha y Hora de cumplimiento
+            1.Notificación de cumplimiento.
+        ii.Recordatorios
+            1.Notificación en barra de tareas
+        iii.Tarea Cumplida o posponerse por más tiempo.
+3.Opciones para los registros
+    a.Registro
+    b.Visualización
+    c.Edición
+    d.Eliminación
+4.Búsqueda para los  Registros
+    a.Por
+        i.Nombre
+        ii.Descripción
+    b.Orden
+        i.Notas: Fecha de Registro
+        ii.Tareas: Fecha de Cumplimiento.
+
+
+No Funcional
+1.	Soporte
+a.	Dispositivos
+i.	Smartphone
+ii.	Tablets
+b.	Versión de Android
+i.	Jelly Bean en adelante.
+c.	Idiomas
+i.	Inglés
+ii.	Español
+d.	Fluidez
+e.	Funcional
+f.	Controles
+i.	Listas
+ii.	Cuadros de Diálogo.
+iii.	Barra de Acción
+iv.	Notificaciones
+v.	Cejillas o pestañas.
+vi.	Grids.
+vii.	Menús Opcionales
+viii.	Menús Conceptuales.
+ix.	Controles de Fecha
+x.	Controles Básicos.
+
+
